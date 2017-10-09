@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Automata Mobile test",
+  "ProjectGuid": "fe15ae99-3b00-43d5-84fb-8db3cb0ae821",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.AutomataMobiletest",
+  "DisplayName": "Automata Mobile test",
+  "Author": "",
+  "Description": "Automata Mobile test",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.5.0",
+  "Framework": "NativeScript"
+}
